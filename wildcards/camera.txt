@@ -1,0 +1,8 @@
+front view
+high-angle view
+bird's-eye view
+low-angle view
+worm's-eye view
+rear view
+side view
+three-quarter view
